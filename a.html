@@ -1,14 +1,5 @@
 <iframe
     id="appetize"
-    src="https://appetize.io/embed/demo">
+    src="https://appetize.io/embed/demo"
+    style="overflow:hidden;margin:0;padding:0;width:2550px;height:3300px;" >
 </iframe>
-
-<script>
-	window.appetize.getClient('#appetize').then(async (client) => {
-	    const session = await client.startSession({
-	        device: 'iphone12',
-	        osVersion: '15',
-	    })
-	})
-</script>
-

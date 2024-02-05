@@ -14,13 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 <!DOCTYPE html>
 <html>
-<head>
-	<!-- Welcome -->
-<title>
-	<!-- to -->
-</title>
-	<!--UncleProject-->
-</head>
+	<head>
+		<!--- Welcome --->
+			<title>
+				<!--- @ --->
+			</title>
+	</head>
 <body>
 
 <h2>This is</h2>

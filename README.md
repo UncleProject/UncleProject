@@ -14,12 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<!--- Welcome --->
-			<title>
-				<!--- @ --->
-			</title>
-	</head>
+<head>
+<!--- Welcome --->
+<title>
 <body>
 
 <h2>This is</h2>

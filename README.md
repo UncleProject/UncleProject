@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <script>
 window.alert("Hello World");
-</script>
+
 
 
 </body>

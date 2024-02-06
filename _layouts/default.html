@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-<script>
-window.alert("Welcome to UncleProject");
-</script>
   <head>
     <meta charset="UTF-8">
     <title>Login</title>
@@ -26,6 +23,8 @@ window.alert("Welcome to UncleProject");
     {% include head-custom.html %}
   </head>
   <body>
+    <script>window.alert("Welcome to UncleProject");
+</script>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -57,21 +56,10 @@ window.alert("Welcome to UncleProject");
       {{ content }}
 
       </section>
+      
       <footer>
-        
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>UncleProject</a></small></p>
-      </footer>
-    </div>
-    <!--Login Test -->
-<head>
-    
-</head>
-
-<body>
-    <div id="container-login">
+            <!--Login Test -->
+<div id="container-login">
         <div id="title">
             <i class="material-icons lock">lock</i> Login
         </div>
@@ -113,8 +101,13 @@ window.alert("Welcome to UncleProject");
             <a href="#"><button id="register-link">Register here</button></a>
         </div>
     </div>
-</body>
-
+        
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>UncleProject</a></small></p>
+      </footer>
+    </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

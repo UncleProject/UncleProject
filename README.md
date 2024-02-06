@@ -1,3 +1,40 @@
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks
+>
+>>
+>>>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        :information_source: Information
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Tis not true.</li>
+          <li>I won't explode.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 - 👋 Hi, I’m @UncleProject
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

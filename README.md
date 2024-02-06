@@ -11,7 +11,7 @@
 >>>
 
 
-
+<p align="center">
 <table>
   <thead>
     <tr>
@@ -32,6 +32,7 @@
     </tr>
   </tbody>
 </table>
+</p>
 
 
 

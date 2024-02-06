@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+<script>
+window.alert("Welcome to UncleProject");
+</script>
   <head>
-    window.alert("Welcome to UncleProject");
     <meta charset="UTF-8">
+    <title>Login</title>
+    <meta name="description" content="Login">
+    <meta name="author" content="UncleProject">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+    <style>
+        body {
+            background-color: #303641;
+        }
+    </style>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -46,31 +58,16 @@
 
       </section>
       <footer>
+        
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>UncleProject</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
-
-<!--Login Test -->
-  <html>
-
+    <!--Login Test -->
 <head>
-    <meta charset="UTF-8">
-    <title>Login</title>
-    <meta name="description" content="Login">
-    <meta name="author" content="UncleProject">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="main.css">
-    <style>
-        body {
-            background-color: #303641;
-        }
-    </style>
+    
 </head>
 
 <body>
@@ -118,5 +115,6 @@
     </div>
 </body>
 
-</html>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
 </html>

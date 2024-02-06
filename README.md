@@ -19,25 +19,28 @@ You can click the Preview link to take a look at your changes.
 <head>
   
 <!--- Welcome --->
-
-Welcome
-
+  
 </head>
 
 <body id="top">
 
-			<!-- Banner -->
-			<!-- To use a video as your background, set data-video to the name of your video without its extension (eg. images/banner). Your video must be available in both .mp4 and .web formats to work correctly.-->
+<!-- <p>UncleProject
+
+<br>
+
+designed with <a href="https://UncleProject.org/"> <3 </a> . </p>  -->
    
-<section id="banner" data-video="images/banner.gif"><div class="inner">
+<section id="banner" data-video="images/banner.gif"> 
+	
+	<div class="inner">
 
-  <header><h1>Welcome.</h1>
+<header>
+	
+	<h1>Welcome.</h1>
 
-  <p>UncleProject<br>
+</header>
 
-  designed with <a href="https://UncleProject.org/"> <3 </a> . </p>
-
-</header><a href="#main" class="more">Learn More</a>
+<a href="#main" class="more">Learn More</a>
 
 </div>
 

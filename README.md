@@ -72,7 +72,7 @@ UncleProject
 	
 <br>
 	
-designed with <a href="https://UncleProject.org/"> <3 </a> . </p> 
+designed with <a href="https://UncleProject.org/"> :heart: </a> . </p> 
 
 <header>
 	

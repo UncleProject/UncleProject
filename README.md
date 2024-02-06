@@ -55,9 +55,11 @@ designed with <a href="https://UncleProject.org/"> <3 </a> . </p>
 <h2> <--Heres the repos I used. </h2>
   
 #<!--- Use this to create a notification --->
+
+<br>
+
 window.alert("Hello World");
 
-
-
 </body>
+
 </html> 

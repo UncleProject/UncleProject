@@ -42,7 +42,7 @@ designed with <a href="https://UncleProject.org/"> <3 </a> . </p>
 
 </header>
 
-<a href="#UncleProject" class="more">Learn More</a>
+<a href="/UncleProject" class="more">Learn More</a>
 
 </div>
 
@@ -54,7 +54,7 @@ designed with <a href="https://UncleProject.org/"> <3 </a> . </p>
   
 <h2> <--Heres the repos I used. </h2>
   
-<!--- Use this to create a notification --->
+#<!--- Use this to create a notification --->
 window.alert("Hello World");
 
 

@@ -13,16 +13,43 @@ You can click the Preview link to take a look at your changes.
 
 
 <!DOCTYPE html>
+
 <html>
+  
 <head>
+  
 <!--- Welcome --->
-<title>
+
+Welcome
+
+</head>
+
+<body id="top">
+
+			<!-- Banner -->
+			<!-- To use a video as your background, set data-video to the name of your video without its extension (eg. images/banner). Your video must be available in both .mp4 and .web formats to work correctly.-->
+   
+<section id="banner" data-video="images/banner.gif"><div class="inner">
+
+  <header><h1>Welcome.</h1>
+
+  <p>UncleProject<br>
+
+  designed with <a href="https://UncleProject.org/"> <3 </a> . </p>
+
+</header><a href="#main" class="more">Learn More</a>
+
+</div>
+
+</section>
+  
 <body>
-
-<h2>This is</h2>
-<p>My first</p>
-
-<script>
+  
+<p>This is my first project.</p>
+  
+<h2><<--Heres the repos I used.></h2>
+  
+<!--- Use this to create a notification --->
 window.alert("Hello World");
 
 

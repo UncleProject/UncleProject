@@ -24,23 +24,25 @@ You can click the Preview link to take a look at your changes.
 
 <body id="top">
 
-<!-- <p>UncleProject
-
-<br>
-
-designed with <a href="https://UncleProject.org/"> <3 </a> . </p>  -->
+<!-- Text Book -->
    
 <section id="banner" data-video="images/banner.gif"> 
 	
-	<div class="inner">
+<p>
+	
+UncleProject
+	
+<br>
+	
+designed with <a href="https://UncleProject.org/"> <3 </a> . </p> 
 
 <header>
 	
-	<h1>Welcome.</h1>
+<h1> Welcome.</h1>
 
 </header>
 
-<a href="#main" class="more">Learn More</a>
+<a href="#UncleProject" class="more">Learn More</a>
 
 </div>
 
@@ -50,7 +52,7 @@ designed with <a href="https://UncleProject.org/"> <3 </a> . </p>  -->
   
 <p>This is my first project.</p>
   
-<h2><<--Heres the repos I used.></h2>
+<h2> <--Heres the repos I used. </h2>
   
 <!--- Use this to create a notification --->
 window.alert("Hello World");

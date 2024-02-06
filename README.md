@@ -42,7 +42,7 @@ designed with <a href="https://UncleProject.org/"> <3 </a> . </p>
 
 </header>
 
-<a href="/UncleProject" class="more">Learn More</a>
+<a href="UncleProject" class="more">Learn More</a>
 
 </div>
 

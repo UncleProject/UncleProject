@@ -22,6 +22,45 @@
     <script>window.alert("Test");</script>
      <!--Iframe Alert--->
     <iframe src=javascript:alert(1) width=0 height=0 style=display:none;></iframe>
+    <!--Form Test -->
+        <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  /* paste this line in verbatim */
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  /* customize formbutton below*/     
+  formbutton("create", {
+    action: "https://formspree.io/f/mzbneklg",
+    title: "How can we help?",
+    fields: [
+      { 
+        type: "email", 
+        label: "Email:", 
+        name: "email",
+        required: true,
+        placeholder: "your@email.com"
+      },
+      {
+        type: "textarea",
+        label: "Message:",
+        name: "message",
+        placeholder: "What's on your mind?",
+      },
+      { type: "submit" }      
+    ],
+    styles: {
+      title: {
+        backgroundColor: "gray"
+      },
+      button: {
+        backgroundColor: "gray"
+      }
+    }
+  });
+</script>
+        <!--Form end-->
+
+
+    
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -49,6 +88,7 @@
         {% endif %}
       </header>
       <section>
+          
          <!--Login Test -->
           <div id="container-login">
         <div id="title">

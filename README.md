@@ -7,18 +7,13 @@
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks
 >
+>>| :warning: WARNING          |
+>>|:---------------------------|
+>>| I should warn you ...      |
 >>
-
-
-| :warning: WARNING          |
-|:---------------------------|
-| I should warn you ...      |
-
-
-| :boom: DANGER              |
-|:---------------------------|
-| Will explode when clicked! |
-
+>>>| :boom: DANGER              |
+>>>|:---------------------------|
+>>>| Will explode when clicked! |
 
 <p align="center">
 <table>
@@ -42,8 +37,6 @@
   </tbody>
 </table>
 </p>
-
-
 
 - 👋 Hi, I’m @UncleProject
 - 👀 I’m interested in ...

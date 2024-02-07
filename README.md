@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/uncleproject">
+  <a href="https://uncleproject.org/<3">
     <img src="images/banner.gif" alt="Logo" width="80" height="80">
   </a>
 

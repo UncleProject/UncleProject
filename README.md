@@ -30,8 +30,7 @@ You can click the Preview link to take a look at your changes.
 >>>| :boom: DANGER              |
 >>>|:---------------------------|
 >>>| Will explode when clicked! |
-
-<p align="center">
+>>>><p align="center">
 <table>
   <thead>
     <tr>
@@ -53,6 +52,7 @@ You can click the Preview link to take a look at your changes.
   </tbody>
 </table>
 </p>
+
 
 - 👋 Hi, I’m @UncleProject
 - 👀 I’m interested in ...

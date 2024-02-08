@@ -1,3 +1,17 @@
+<!---
+UncleProject/UncleProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<!-- Improved compatibility of back to top link: See: https://github.com/uncleproject/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the UncleProject. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "Hello-Uncle".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
@@ -46,23 +60,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-UncleProject/UncleProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- Improved compatibility of back to top link: See: https://github.com/uncleproject/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the UncleProject. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "Hello-Uncle".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -71,13 +68,19 @@ You can click the Preview link to take a look at your changes.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors]https://img.shields.io/badge/%E2%9D%A4-red
 
+[![Forks][[forks-shield]][forks-url]](https://img.shields.io/badge/%E2%9D%A4-red
+)
+[![Stargazers]https://img.shields.io/badge/%E2%9D%A4-red
+
+[![Issues][[issues-shield]][issues-url]](https://img.shields.io/badge/%E2%9D%A4-red
+)
+[![MIT License][[license-shield]][license-url]](https://img.shields.io/badge/%E2%9D%A4-red
+)
+[![LinkedIn][[linkedin-shield]][linkedin-url]
+](https://img.shields.io/badge/%E2%9D%A4-red
+)
 
 
 <!-- PROJECT LOGO -->
@@ -287,53 +290,3 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: [https://img.shields.io/github/contributors/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[contributors-url]: https://github.com/uncleproject/Best-README-Template/graphs/contributors
-[forks-shield]: [https://img.shields.io/github/forks/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[forks-url]: https://github.com/uncleproject/Best-README-Template/network/members
-[stars-shield]: [https://img.shields.io/github/stars/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[stars-url]: https://github.com/uncleproject/Best-README-Template/stargazers
-[issues-shield]: [https://img.shields.io/github/issues/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[issues-url]: https://github.com/uncleproject/Best-README-Template/issues
-[license-shield]: [https://img.shields.io/github/license/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[license-url]: https://github.com/uncleproject/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/%E2%9D%A4-red
-
-[linkedin-url]: https://linkedin.com/in/uncleproject
-[product-screenshot]: images/screenshot.png
-[Next.js]: [https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[Next-url]: https://nextjs.org/
-[React.js]: [https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[React-url]: https://reactjs.org/
-[Vue.js]: [https://img.shields.io/badge/%E2%9D%A4-red](https://img.shields.io/badge/%E2%9D%A4-red
-)
-
-[Vue-url]: https://vuejs.org/
-[Angular.io]: [https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/%E2%9D%A4-red
-
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: [https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: [https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
-)
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: [https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
-)https://img.shields.io/badge/%E2%9D%A4-red
-
-[JQuery-url]: https://jquery.com 

@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 <!---
 UncleProject/UncleProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
+<a name="readme-top"></a>
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 

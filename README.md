@@ -1,4 +1,4 @@
-
+<a name="readme-top"></a>
 <!---
 UncleProject/UncleProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 ![UncleProject - The future](https://uncleproject.org/banner.gif "UncleProject - uncleproject.org/<3")
 
 <!-- Improved compatibility of back to top link: See: https://github.com/uncleproject/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-
 <!--
 *** Thanks for checking out the UncleProject. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -53,8 +51,6 @@ You can click the Preview link to take a look at your changes.
   </tbody>
 </table>
 </p>
-
-
 - 👋 Hi, I’m @UncleProject
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -74,19 +70,18 @@ You can click the Preview link to take a look at your changes.
 [![Contributors](https://img.shields.io/badge/%E2%9D%A4-red)
 
 
-[![Forks][[forks-shield]][forks-url]](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Forks][[forks-shield]][forks-url](https://img.shields.io/badge/%E2%9D%A4-red)]
 
 
-[![Stargazers](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Stargazers](https://img.shields.io/badge/%E2%9D%A4-red)]
 
 
-[![Issues][[issues-shield]][issues-url]](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Issues][[issues-shield]][issues-url](https://img.shields.io/badge/%E2%9D%A4-red)]
 
 
-[![MIT License][[license-shield]][license-url]](https://img.shields.io/badge/%E2%9D%A4-red)
+[![MIT License][[license-shield]][license-url](https://img.shields.io/badge/%E2%9D%A4-red)]
 
 [![LinkedIn][[linkedin-shield]][linkedin-url](https://img.shields.io/badge/%E2%9D%A4-red)
-
 
 
 <!-- PROJECT LOGO -->
@@ -139,9 +134,6 @@ You can click the Preview link to take a look at your changes.
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -191,7 +183,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
 ### Installation

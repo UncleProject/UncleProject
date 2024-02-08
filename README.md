@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Improved compatibility of back to top link: See: https://github.com/uncleproject/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
+![UncleProject - Placeholder](https://uncleproject.org/banner.gif "UncleProject - A New Hope poster")
 *** Thanks for checking out the UncleProject. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "Hello-Uncle".

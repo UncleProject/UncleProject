@@ -68,21 +68,21 @@ You can click the Preview link to take a look at your changes.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors]![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Contributors](https://img.shields.io/badge/%E2%9D%A4-red)
 
 
-[![Forks][[forks-shield]][forks-url]]![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Forks][[forks-shield]][forks-url]](https://img.shields.io/badge/%E2%9D%A4-red)
 
 
-[![Stargazers]![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Stargazers](https://img.shields.io/badge/%E2%9D%A4-red)
 
 
-[![Issues][[issues-shield]][issues-url]]![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+[![Issues][[issues-shield]][issues-url]](https://img.shields.io/badge/%E2%9D%A4-red)
 
 
-[![MIT License][[license-shield]][license-url]]![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+[![MIT License][[license-shield]][license-url]](https://img.shields.io/badge/%E2%9D%A4-red)
 
-[![LinkedIn][[linkedin-shield]][linkedin-url]![Static Badge](https://img.shields.io/badge/%E2%9D%A4-red)
+[![LinkedIn][[linkedin-shield]][linkedin-url](https://img.shields.io/badge/%E2%9D%A4-red)
 
 
 
@@ -163,14 +163,15 @@ Use the `UncleProject` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Next][Next.js]][Next-url](https://img.shields.io/badge/%E2%9D%A4-red)
+
+* [![React][React.js]][React-url](https://img.shields.io/badge/%E2%9D%A4-red)
+* [![Vue][Vue.js]][Vue-url](https://img.shields.io/badge/%E2%9D%A4-red)
+* [![Angular][Angular.io]][Angular-url](https://img.shields.io/badge/%E2%9D%A4-red)
+* [![Svelte][Svelte.dev]][Svelte-url](https://img.shields.io/badge/%E2%9D%A4-red)
+* [![Laravel][Laravel.com]][Laravel-url](https://img.shields.io/badge/%E2%9D%A4-red)
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url](https://img.shields.io/badge/%E2%9D%A4-red)
+* [![JQuery][JQuery.com]][JQuery-url](https://img.shields.io/badge/%E2%9D%A4-red)f
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -292,32 +292,48 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/uncleproject/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: [https://img.shields.io/github/contributors/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [contributors-url]: https://github.com/uncleproject/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/uncleproject/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: [https://img.shields.io/github/forks/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [forks-url]: https://github.com/uncleproject/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/uncleproject/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: [https://img.shields.io/github/stars/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [stars-url]: https://github.com/uncleproject/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/uncleproject/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: [https://img.shields.io/github/issues/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [issues-url]: https://github.com/uncleproject/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/uncleproject/Best-README-Template.svg?style=for-the-badge
+[license-shield]: [https://img.shields.io/github/license/uncleproject/Best-README-Template.svg?style=for-the-badge](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [license-url]: https://github.com/uncleproject/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/%E2%9D%A4-red
+
 [linkedin-url]: https://linkedin.com/in/uncleproject
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: [https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: [https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue.js]: [https://img.shields.io/badge/%E2%9D%A4-red](https://img.shields.io/badge/%E2%9D%A4-red
+)
+
 [Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular.io]: [https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte.dev]: https://img.shields.io/badge/%E2%9D%A4-red
+
 [Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel.com]: [https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: [https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
+)
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery.com]: [https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/%E2%9D%A4-red
+)https://img.shields.io/badge/%E2%9D%A4-red
+
 [JQuery-url]: https://jquery.com 
